@@ -1,8 +1,9 @@
-# README Generator
+# README Creator
 
-  
+![License](https://img.shields.io/badge/License-APACHE%202.0-blue.svg)
+
 ## Description
-Takes input from a user and creates a professional README file for their project. 
+a;lskdjfasdkf
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,17 +17,19 @@ Takes input from a user and creates a professional README file for their project
 npm i 
 
 ## Usage
-ony applicable if a web developer 
+;aklsdjf;aksdjfad
 
 ## License
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-https://opensource.org/licenses/MIT
+
+This project is licensed under the APACHE 2.0 license.
 
 ## Contributing
-please create new branches to commit back to the original 
+dfadsfasdfadsfadf
 
 ## Tests
-undefined
+npm test
 
 ## Questions
-If you have any questions, please feel free to contact me at jaornelas@gmail.com. You can also find more of my work at [jaornelas](https://github.com/jaornelas).
+For additional questions, you can reach me at:
+- GitHub: [jaornelas](https://github.com/jaornelas)
+- Email: [jornelas@gmail.com](mailto:jornelas@gmail.com)
