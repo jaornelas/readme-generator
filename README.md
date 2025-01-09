@@ -26,5 +26,5 @@ After the command provided above is invoked, the terminal will prompt the user a
 ![alt text](image.png)
 
 ## Links to host link and repository. 
-* [Video](www.google.com/drive/jao)
-* [GitHub](www.jaornelas.github.com)
+* [Video](https://drive.google.com/file/d/1yVovA5ezHgY-zH31r8AiG0QlYG_sbbLv/view)
+* [GitHub Repository](https://github.com/jaornelas/readme-generator)
