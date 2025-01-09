@@ -1,14 +1,14 @@
-# AHHHHHH MUSTAAAAAAARD
+# README Generator
 
-![License](https://img.shields.io/badge/License-BSD%203-blue.svg)
+
 
 ## Description
-turn this tv off
+This project requires the user to invoke a command within their terminal and answer a set of questions to create a professional README file for whatever they may be working on. 
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -17,14 +17,12 @@ turn this tv off
 npm i 
 
 ## Usage
-kdot is king
+Please use responsibly
 
-## License
 
-This project is licensed under the BSD 3 license.
 
 ## Contributing
-contribute proper
+Whenever making additions to the repository, please make sure you are working off the main branch. 
 
 ## Tests
 npm test
@@ -32,4 +30,4 @@ npm test
 ## Questions
 For additional questions, you can reach me at:
 - GitHub: [jaornelas](https://github.com/jaornelas)
-- Email: [jornelas@uwcu.org](mailto:jornelas@uwcu.org)
+- Email: [ornelalf001@gmail.com](mailto:ornelalf001@gmail.com)
