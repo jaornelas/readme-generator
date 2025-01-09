@@ -1,9 +1,9 @@
-# README Creator
+# AHHHHHH MUSTAAAAAAARD
 
-![License](https://img.shields.io/badge/License-APACHE%202.0-blue.svg)
+![License](https://img.shields.io/badge/License-BSD%203-blue.svg)
 
 ## Description
-a;lskdjfasdkf
+turn this tv off
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,14 +17,14 @@ a;lskdjfasdkf
 npm i 
 
 ## Usage
-;aklsdjf;aksdjfad
+kdot is king
 
 ## License
 
-This project is licensed under the APACHE 2.0 license.
+This project is licensed under the BSD 3 license.
 
 ## Contributing
-dfadsfasdfadsfadf
+contribute proper
 
 ## Tests
 npm test
@@ -32,4 +32,4 @@ npm test
 ## Questions
 For additional questions, you can reach me at:
 - GitHub: [jaornelas](https://github.com/jaornelas)
-- Email: [jornelas@gmail.com](mailto:jornelas@gmail.com)
+- Email: [jornelas@uwcu.org](mailto:jornelas@uwcu.org)
