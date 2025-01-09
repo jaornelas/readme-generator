@@ -1,13 +1,14 @@
 # README Generator
 
-  
+
+
 ## Description
-Takes input from a user and creates a professional README file for their project. 
+This project requires the user to invoke a command within their terminal and answer a set of questions to create a professional README file for whatever they may be working on. 
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -16,17 +17,17 @@ Takes input from a user and creates a professional README file for their project
 npm i 
 
 ## Usage
-ony applicable if a web developer 
+Please use responsibly
 
-## License
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-https://opensource.org/licenses/MIT
+
 
 ## Contributing
-please create new branches to commit back to the original 
+Whenever making additions to the repository, please make sure you are working off the main branch. 
 
 ## Tests
-undefined
+npm test
 
 ## Questions
-If you have any questions, please feel free to contact me at jaornelas@gmail.com. You can also find more of my work at [jaornelas](https://github.com/jaornelas).
+For additional questions, you can reach me at:
+- GitHub: [jaornelas](https://github.com/jaornelas)
+- Email: [ornelalf001@gmail.com](mailto:ornelalf001@gmail.com)

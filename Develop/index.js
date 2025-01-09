@@ -56,13 +56,12 @@ const questions = [
     },
 ];
 
-// TODO: Create a function to write README file
-//using the path directory to join the current working directory with the new file created
+// Creating a function to write README file and using the path directory to join the current working directory with the new file created
 function writeToFile(fileName, data) {
     return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 };
 
-// TODO: Create a function to initialize app
+// Function to initialize app and prompt user with questions
 function init() { 
     inquirer.prompt(questions).then((inquirerResponses) => {
         console.log('Generating README...');
