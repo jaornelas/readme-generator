@@ -1,14 +1,14 @@
-# README Generator
+# Professional README Generator 
 
-
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
-This project requires the user to invoke a command within their terminal and answer a set of questions to create a professional README file for whatever they may be working on. 
+Prompting the user to enter information about their project and creating a professional README file for them to use
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-
+- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -17,12 +17,14 @@ This project requires the user to invoke a command within their terminal and ans
 npm i 
 
 ## Usage
-Please use responsibly
+Please use responsibly. 
 
+## License
 
+This project is licensed under the MIT license.
 
 ## Contributing
-Whenever making additions to the repository, please make sure you are working off the main branch. 
+Please be sure you create a new branch when making edits. 
 
 ## Tests
 npm test
